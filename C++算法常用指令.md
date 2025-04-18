@@ -16,3 +16,5 @@ cout << fixed << setprecision(2) << s / n;
 
 
 **protected**
+
+main
